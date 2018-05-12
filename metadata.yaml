@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4044
     wikipedia: http://en.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28370#Nouvelle-g-ographie-universelle-1-19-I-L-Europe-meridionale--1876-
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2009-03-20'
 gutenberg_type: Text
